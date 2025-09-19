@@ -7,3 +7,10 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Data science is very versatile and could be applied to any field.
 Business, for one, can use data science by collecting and calculating data 
 to find the best profits for any product. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from one branch to another and its good 
+for working in larger groups, since the history will be preserved. Rebasing
+moves commits of one branch to another, which is better for personal 
+branches. 
